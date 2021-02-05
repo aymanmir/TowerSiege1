@@ -9,7 +9,7 @@ var engine,world
 var g1,g2;
 var polyImg
 function preload(){
-     polyImg=loadImage("/polygon.png")
+     polyImg=loadImage("polygon.png")
  }
 function setup(){
     createCanvas(600,600)
